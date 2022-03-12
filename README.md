@@ -1,1 +1,1 @@
-# py-solana-cli
+# py_solana_cli
